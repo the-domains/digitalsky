@@ -1,0 +1,28 @@
+name: DigitalSky
+favicon: null
+layout_spectrum: 0.7805944331921637
+typography_spectrum: 0.2664734704885632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.56489023193717
+  lightness: 0.8663970443885773
+  saturation: 0.23999337246641517
+  rhythmicContrast: 0.2622845466248691
+purpose: []
